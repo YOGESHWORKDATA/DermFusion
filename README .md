@@ -15,18 +15,11 @@ DermFusion-GitHub/
 ├── REPRODUCIBILITY_NOTES.md
 ├── requirements.txt
 ├── .gitignore
-├── paper/
-│   ├── DermFusion_Final_12_06_2026.pdf
-│   └── README.md
 ├── src/
 │   ├── dermfusion_train.py
-│   └── dermfusion_train_original.txt
 ├── results/
 │   └── training_log_excerpt.md
-├── assets/
-│   └── architecture_page4.png
-├── data/
-│   └── README.md
+
 └── docs/
     └── RESULTS.md
 ```
