@@ -41,11 +41,14 @@ DermFusion combines:
 
 The uploaded implementation uses 7 HAM10000 classes: `MEL, NV, BCC, AKIEC, BKL, DF, VASC`.
 
-![DermFusion architecture](assets/architecture_page4.png)
+
 
 ## Dataset
 
-The paper reports experiments on **HAM10000 (10,015 images, seven classes)** and uses lesion segmentation masks associated with the ISIC 2018 Task 1 annotation set.
+The paper reports experiments on HAM10000: 10,015 dermoscopic images, seven diagnostic classes.
+- ISIC 2018 Task 1 lesion-boundary annotations for segmentation masks.
+- External evaluation: PH2, ISIC 2019, and PAD-UFES-20.
+
 
 The repository **does not redistribute any dataset or masks**. See `data/README.md`.
 
