@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # ════════════════════════════════════════════════════════════════
-# DermFusion — FULL PAPER-MATCHING TRAINING CODE
-# ════════════════════════════════════════════════════════════════
-# Implements EVERY claim in the paper:
+# DermFusion — 
 #   ✅ 7-class HAM10000 (MEL,NV,BCC,AKIEC,BKL,DF,VASC)
 #   ✅ 384×384 input resolution
 #   ✅ ResNet-50 + CBAM (channel + spatial attention)
