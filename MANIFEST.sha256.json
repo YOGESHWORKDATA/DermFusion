@@ -1,0 +1,72 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 301,
+    "sha256": "a2cd4e01ea5d19b790a48ea48fec6a79684e4fabba0867c05dcebe41b522cfc2"
+  },
+  {
+    "path": "CITATION.cff",
+    "bytes": 796,
+    "sha256": "b43d987cda466bb75306eadb69607178173b3fe5c3fca15dc3b8c5dc7d58152a"
+  },
+  {
+    "path": "README.md",
+    "bytes": 6277,
+    "sha256": "e3d4cf4b9d7db6bd593a3cea7327a7eae7ec6870eac6d7dbf7eb6c75ddd92b7b"
+  },
+  {
+    "path": "REPRODUCIBILITY_NOTES.md",
+    "bytes": 3301,
+    "sha256": "fa979cc57cd5836b8b857f21f29df4440f527f4a44e1406a219df3db605e3ee0"
+  },
+  {
+    "path": "assets/architecture_page4.png",
+    "bytes": 560313,
+    "sha256": "d42b82812e7e8f87eb6190cec5a8cb8b99aea2a771aa7e3ded2ac4da6e7be0dc"
+  },
+  {
+    "path": "data/README.md",
+    "bytes": 775,
+    "sha256": "12678facd2705b1eddd2c452eb59731c7b0bf695741407a8aaccdc3bc354fcf9"
+  },
+  {
+    "path": "docs/RELEASE_CHECKLIST.md",
+    "bytes": 802,
+    "sha256": "26d6337129def3fbab20a2e425e39ca27ec1c4fd1afa75b6b6874779f447f36b"
+  },
+  {
+    "path": "docs/RESULTS.md",
+    "bytes": 3260,
+    "sha256": "8fea16e00c22cc3fece5cce6652ca59f5bd931e5031da154ffc348dd183b03ea"
+  },
+  {
+    "path": "paper/DermFusion_Final_12_06_2026.pdf",
+    "bytes": 3822738,
+    "sha256": "2367c0eb9c3ff585c71ec797b7ed9a5ae5a1716ddb97f978d6cee327029a80ce"
+  },
+  {
+    "path": "paper/README.md",
+    "bytes": 447,
+    "sha256": "980354d77e7a30ad406ef9c0aa953d445d86c1882899c2ac58344a6118eda602"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 76,
+    "sha256": "2a6bd211e2d6b3f6c79f8c2831b1147f2c0dfdc083e443048c384fe01c47ce09"
+  },
+  {
+    "path": "results/training_log_excerpt.md",
+    "bytes": 10056,
+    "sha256": "423e423885e4340ce44221c036cd30238048d909dcb5045e2aab4cae9bd6628e"
+  },
+  {
+    "path": "src/dermfusion_train.py",
+    "bytes": 50763,
+    "sha256": "05b430612ce5d446756538d9d4d5173503916a5140cc970c958704b2a50b3a1e"
+  },
+  {
+    "path": "src/dermfusion_train_original.txt",
+    "bytes": 54525,
+    "sha256": "0df19ba88cb41154f12891053fbfddbc5411b23a25904844452c456dab09e24f"
+  }
+]

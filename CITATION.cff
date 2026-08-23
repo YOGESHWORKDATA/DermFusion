@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "DermFusion: An Uncertainty-Aware Cross-Attention CNN–Transformer Framework for Multi-Task Skin Lesion Classification and Segmentation"
+message: "If you use this software or research, please cite the DermFusion paper."
+type: software
+authors:
+  - family-names: "Yogesh"
+    given-names: ""
+  - family-names: "Singh"
+    given-names: "Karan"
+  - family-names: "Yadav"
+    given-names: "Ashok Kumar"
+  - family-names: "Khan"
+    given-names: "Tayyab"
+  - family-names: "AlMomany"
+    given-names: "Abedalmuhdi"
+version: "2026.08.23"
+date-released: "2026-08-23"
+keywords:
+  - dermatology
+  - skin lesion classification
+  - skin lesion segmentation
+  - melanoma
+  - computer vision
+  - vision transformer
+  - cross-attention
+  - uncertainty quantification
+  - calibration
